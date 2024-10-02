@@ -1,4 +1,4 @@
----
+inform me well in time---
 manufacturer:
     - tecno
 
